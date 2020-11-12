@@ -1,0 +1,9 @@
+Il pattern DAO (Data Access Object) è un pattern architetturale che descrive un pattern complessivo adottato dall'intero sistema, 
+la cui implementazione logica da vita a un framework
+
+Effettua la connessione al DB - in questo esempio viene istanziata la connessione nel momento in cui instanzio anche il DAO. Manca la chiusura
+Effettua una chiamata al DB con la query da eseguire
+
+Connect to DB - in this example the connection is instantiated when I also instantiate the DAO
+Make a call to the DB with the query to execute
+
