@@ -1,0 +1,8 @@
+Le servlet effettuano delle chiamate al DB tramite il DAO
+Sono chiamate da una action di un form nelle JSP
+in alternativa possono essere chiamate direttamente da getServletContext().getRequestDispatcher("/NomePercorsoRiferimentoServlet")
+
+The servlets make calls to the DB via DAO
+They are called by a form action in JSP
+alternatively they can be called directly from getServletContext().getRequestDispatcher("/NamePathRefServlet")
+
